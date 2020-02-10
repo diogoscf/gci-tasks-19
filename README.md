@@ -1,4 +1,4 @@
-#Completed tasks in GCI 2019
+# Completed tasks in GCI 2019
 
 GCI task summary for diogoscf. All tasks were done with the [Apertium Org](https://apertium.org)
 
